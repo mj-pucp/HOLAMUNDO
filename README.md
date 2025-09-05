@@ -20,6 +20,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 **2.) Grecia Gutierrez**
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c058fdbb-58dd-4d3f-942d-78c99e90522f" />
 
+
 **EDAD:** 18 AÑOS
 
 **PASATIEMPO:** Tocar instrumentos musicales. Ella gustaria lograr contribuir al desarrollo de la ciencia y transformarla en ayuda a otros Biomecanica
@@ -32,6 +33,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 
 **3.) Thiago Arroyo**
 <img width="1600" height="1439" alt="image" src="https://github.com/user-attachments/assets/569012dc-78b7-4875-9981-35dfbd0e33a8" />
+
 
 **EDAD:** 18 AÑOS
 
@@ -47,6 +49,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 **4.) Larry Cardenas**
 <img width="711" height="804" alt="image" src="https://github.com/user-attachments/assets/92a115bc-859a-4cdc-8e31-c2409c938a43" />
 
+
 **EDAD:** 17 AÑOS
 
 **PASATIEMPO:** Le gusta escribir, ver películas y salir a caminar.
@@ -61,6 +64,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 **5.) Erik de la Cruz**
 <img width="711" height="804" alt="image" src="https://github.com/user-attachments/assets/d3ca4401-c2ce-463e-96f0-cf40f071abfc" />
 
+
 **EDAD:** 18 AÑOS
 
 **PASATIEMPO:** Le gusta practicar deporte, escuchar música y ver partidos de fútbol
@@ -74,6 +78,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 
 **6.) Marcelo Jaimes**
 <img width="860" height="1599" alt="image" src="https://github.com/user-attachments/assets/37c25e85-9a02-4d66-8496-af601a0012b1" />
+
 
 **EDAD:** 17 AÑOS
 
