@@ -6,7 +6,8 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 
 # 🧑‍🤝‍🧑DESCRIPCIÓN DE MIEMBROS DEL GRUPO
 **1.) Leonela Encarnacion**
-![Leonela Encarnacion](WhatsApp Image 2025-09-04 at 22.54.34.jpeg)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/77d67357-c815-4aba-8a16-b6a2d943a6d3" />
+
 **EDAD:** 18 AÑOS
 
 **PASATIEMPO:** Le gusta realizar manualidades, escuchar música y le interesa el área de biomecanica y rehabilitación
