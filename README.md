@@ -29,7 +29,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 - Asegura que todos cumplan con lo acordado.
 
 
-**2.) Thiago Arroyo**
+**3.) Thiago Arroyo**
 ![Thiago Arroyo](WhatsApp Image 2025-09-04 at 23.07.11.jpeg)
 **EDAD:** 18 AÑOS
 
@@ -42,7 +42,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 - Ayuda a conseguir los materiales electrónicos necesarios.
 
 
-**2.) Larry Cardenas**
+**4.) Larry Cardenas**
 ![Larry Cardenas](WhatsApp Image 2025-09-04 at 23.21.48.jpeg)
 **EDAD:** 17 AÑOS
 
