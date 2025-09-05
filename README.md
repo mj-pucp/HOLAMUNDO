@@ -47,7 +47,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 
 
 **4.) Larry Cardenas**
-<img width="711" height="804" alt="image" src="https://github.com/user-attachments/assets/92a115bc-859a-4cdc-8e31-c2409c938a43" />
+<img width="711" height="804" alt="image" src="https://github.com/user-attachments/assets/8c468cbf-efca-4e6c-a2ac-9c0b31714151" />
 
 
 **EDAD:** 17 AÑOS
@@ -62,7 +62,7 @@ Somos estudiantes de Ingeniería Biomédica de la PUCP-UPCH, pertenecientes al h
 
 
 **5.) Erik de la Cruz**
-<img width="711" height="804" alt="image" src="https://github.com/user-attachments/assets/d3ca4401-c2ce-463e-96f0-cf40f071abfc" />
+<img width="334" height="470" alt="image" src="https://github.com/user-attachments/assets/d28df1c4-c58d-4793-86ea-d05727dd024a" />
 
 
 **EDAD:** 18 AÑOS
